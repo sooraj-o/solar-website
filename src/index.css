@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+/* @custom-varient dark (&:where(.dark,.dark *))
+
+*{
+  font-weight: 500;
+}
+
+@theme{
+  --color-primary:#5044E5;
+} */
