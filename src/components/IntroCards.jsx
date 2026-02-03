@@ -1,5 +1,5 @@
 // src/components/IntroCards.jsx
-import taxImg from "../assets/Warrenty2.png";
+ import Warrenty2 from '../assets/warranty2.png'
 import trustImg from "../assets/Trust1.png";
 import warrantyImg from "../assets/Tax2.png";
 
@@ -11,7 +11,7 @@ export default function IntroCards() {
         {/* LEFT SIDE IMAGE */}
         <div className="flex justify-center lg:justify-start">
           <img
-            src={taxImg}
+            src={Warrenty2}
             alt="25% Tax Credit"
             className="w-full max-w-md lg:max-w-xl rounded-xl shadow-lg"
           />

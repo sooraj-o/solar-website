@@ -1,7 +1,7 @@
 // src/components/Team.jsx
 import { FaInstagram, FaFacebookF, FaXTwitter } from "react-icons/fa6";
 
-import John from "../assets/John.png";
+import John from '../assets/john.png'
 import Mark from "../assets/Mark.jpg";
 import Alice from "../assets/Alice.jpg";
 import Sara from "../assets/Sara.jpg";
